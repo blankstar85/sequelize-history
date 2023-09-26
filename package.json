@@ -34,8 +34,7 @@
   },
   "private": false,
   "peerDependencies": {
-    "cls-hooked": "^4.2.2",
-    "sequelize": "^6.33.0"
+    "sequelize": "7.0.0-alpha2.2"
   },
   "devDependencies": {
     "@types/chai": "^4.3.6",
